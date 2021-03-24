@@ -7,3 +7,5 @@ My name is Chuanyi(中文互联网请叫我二牛), a backend software engineer 
 - 📫 You can contact me at [Mail To Me](mailto:chuanyi@88.com)
 - 😄 Pronouns: Marathon fanatic, Travel enthusiast, Harmonica player
 - ⚡ One word: Hardcore
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=likenttt&hide=css&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=likenttt&show_icons=true&count_private=true&include_all_commits=true" />
