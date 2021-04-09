@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 My name is Chuanyi, a backend software engineer in Nanjing. I use java for most of my work. I write other programming languages as well, like python, javascript, and so forth. 
 
