@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Marathon_PB-3:30:15-green"/>
   <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likenttt&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 - 🔭 I’m currently working on Garmin App developing in my spare time. If you like Jumping rope and own a Garmin watch, I highly recommend my first app [JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177)
