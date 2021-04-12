@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey 👋
 <p align="center">
   <img src="https://img.shields.io/badge/Marathon_PB-3:30:15-green"/>
   <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
