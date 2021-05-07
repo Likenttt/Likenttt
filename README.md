@@ -6,7 +6,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likenttt&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
-
-- 🔭 Garmin watch app [JumpJump](https://likenttt.github.io/JumpJump/)
+- 💻 My  Java | Python | Javascript | Monkey C | C 
+- 🔭 Garmin watch application [JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177)|[Dogecoin:To the moon](https://apps.garmin.com/en-US/apps/c6168ee2-aa5b-42d3-964d-7a891fb8fc12)
 - 🌱 Running is always on my daily schedule. So far, I have participated in more than 10 marathons. My personal best record is 3:30:15, created in 2020 Guangzhou Marathon on 13 Dec. OFC, as most runners dream about, I want to finish the six major marathons in the world. Look！A collection of famous routes is here. [Routes collection](https://likenttt.github.io/awesome-marathon-routes-gpx-collection/)
-- 
