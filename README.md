@@ -1,7 +1,7 @@
 ### Hey 👋
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+  <img src="https://profile-counter.glitch.me/Likenttt/count.svg" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Marathon_PB-3:30:15-green"/>
