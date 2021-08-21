@@ -4,9 +4,17 @@
   <img src="https://profile-counter.glitch.me/Likenttt/count.svg" />
 </p>
 <p align="center">
+  My Applications' Downloads in Global Connect IQ Store<br>
+  <img src="https://img.shields.io/badge/JumpJump-637-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-637-orange"/>
+  <img src="https://img.shields.io/badge/DogeCoin_Price-637-blue"/>
+</p>
+<p align="center">
+  Marathon PB<br>
   <img src="https://img.shields.io/badge/Marathon_PB-3:30:15-green"/>
   <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
 </p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likenttt&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
