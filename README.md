@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   My Applications' Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/JumpJump-29547-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-2855-orange"/>
+  <img src="https://img.shields.io/badge/JumpJump-29614-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-2879-orange"/>
   <img src="https://img.shields.io/badge/DogeCoin_Price-689-blue"/>
 </p>
 <p align="center">
