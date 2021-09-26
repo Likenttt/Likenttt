@@ -5,9 +5,9 @@
 </p>
 <p align="center">
   My Applications' Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/JumpJump-31236-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-2977-orange"/>
-  <img src="https://img.shields.io/badge/DogeCoin_Price-707-blue"/>
+  <img src="https://img.shields.io/badge/JumpJump-31385-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-2978-orange"/>
+  <img src="https://img.shields.io/badge/DogeCoin_Price-708-blue"/>
 </p>
 <p align="center">
   Marathon PB<br>
