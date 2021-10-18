@@ -1,4 +1,4 @@
-from queryDownloads import replace_readme_comments
+from queryDownloads import replace_readme_comments,get_downloads_from_url
 import argparse
 
 if __name__ == "__main__":
@@ -10,11 +10,12 @@ if __name__ == "__main__":
 
 	count = 0
 	options = parser.parse_args()
-	for _, ciq_id in options.ciq_id_list:
+	print(options)
+	for ciq_id in options.ciq_id_list:
 		if ciq_id is not None:
 			ciq_download_intl = get_downloads_from_url('https://apps.garmin.com/zh-CN/apps/' + ciq_id)
 			ciq_download_china = get_downloads_from_url('https://apps.garmin.cn/zh-CN/apps/' + ciq_id)
 			if ciq_download_intl and ciq_download_china:
 				downloads = int(ciq_download_intl) + int(ciq_download_china)
-				count += ciq_id
+				count += downloads
 	replace_readme_comments(options.readme_file_name,options.badge_pattern,count)
