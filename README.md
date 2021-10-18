@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/All_Apps-50000-red"/>
+  <img src="https://img.shields.io/badge/All_Apps-59066-red"/>
   Some of them<br>
   <img src="https://img.shields.io/badge/JumpJump-35846-green"/>
   <img src="https://img.shields.io/badge/极简中文表盘-3605-orange"/>
