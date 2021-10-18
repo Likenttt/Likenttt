@@ -4,11 +4,11 @@ name: Get Garmin Downloads
 
 # Controls when the workflow will run
 on:
-  push:
-    branches:
-      - main
-  # - schedule:
-  #   - cron: '3 0 * * *'
+  # push:
+  #   branches:
+  #     - main
+  - schedule:
+    - cron: '3 0 * * *'
 
 env:
   readme_file_name: 'README.md'

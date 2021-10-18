@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/All_Apps-59066-red"/>
+  <img src="https://img.shields.io/badge/All_Apps-59066-red"/><br>
   Some of them<br>
   <img src="https://img.shields.io/badge/JumpJump-35846-green"/>
   <img src="https://img.shields.io/badge/极简中文表盘-3605-orange"/>
@@ -23,4 +23,4 @@
 
 - 💻 Java | Python | Javascript | Monkey C | etc.
 - 🔭 Garmin watch application [JumpJump](https://apps.garmin.com/en-US/apps/dc6ceca8-6ec6-49f2-b711-4ebc0d347177) | [Dogecoin:To the moon](https://apps.garmin.com/en-US/apps/c6168ee2-aa5b-42d3-964d-7a891fb8fc12)
-- 🌱 Running is always on my daily schedule. So far, I have participated in more than 10 marathons. My personal best record is 3:30:15, created in 2020 Guangzhou Marathon on 13 Dec. OFC, as most runners dream about, I want to finish the six major marathons in the world. Look！A collection of famous routes is here. [Routes collection](https://likenttt.github.io/awesome-marathon-routes-gpx-collection/)
+- 🌱 Running is always on my daily schedule. So far, I have participated in more than 10 marathons. My personal best record is 321. OFC, as most runners dream about, I want to finish the six major marathons in the world. Look！A collection of famous routes is here. [Routes collection](https://likenttt.github.io/awesome-marathon-routes-gpx-collection/)
