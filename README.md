@@ -5,11 +5,11 @@
 </p>
 <p align="center">
   My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/All_Apps-62986-red"/><br>
+  <img src="https://img.shields.io/badge/All_Apps-63256-red"/><br>
   Some of them<br>
-  <img src="https://img.shields.io/badge/JumpJump-38059-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-4039-orange"/>
-  <img src="https://img.shields.io/badge/DogeCoin_Price-761-blue"/>
+  <img src="https://img.shields.io/badge/JumpJump-38208-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-4054-orange"/>
+  <img src="https://img.shields.io/badge/DogeCoin_Price-763-blue"/>
 </p>
 <p align="center">
   Marathon PB<br>
