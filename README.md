@@ -5,10 +5,10 @@
 </p>
 <p align="center">
   My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
-  <img src="https://img.shields.io/badge/All_Apps-69974-red"/><br>
+  <img src="https://img.shields.io/badge/All_Apps-70412-red"/><br>
   Some of them<br>
-  <img src="https://img.shields.io/badge/JumpJump-41748-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-4533-orange"/>
+  <img src="https://img.shields.io/badge/JumpJump-41935-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-4574-orange"/>
   <img src="https://img.shields.io/badge/DogeCoin_Price-789-blue"/>
 </p>
 <p align="center">
