@@ -7,13 +7,13 @@
   My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
   <img src="https://img.shields.io/badge/All_Apps-81150-red"/><br>
   Some of them<br>
-  <img src="https://img.shields.io/badge/JumpJump-35846-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-3605-orange"/>
-  <img src="https://img.shields.io/badge/DogeCoin_Price-743-blue"/>
+  <img src="https://img.shields.io/badge/JumpJump-47170-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-5247-orange"/>
+  <img src="https://img.shields.io/badge/DogeCoin_Price-825-blue"/>
 </p>
 <p align="center">
   Marathon PB<br>
-  <img src="https://img.shields.io/badge/Marathon_PB-3:30:15-green"/>
+  <img src="https://img.shields.io/badge/Marathon_PB-3:21:15-green"/>
   <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
 </p>
 

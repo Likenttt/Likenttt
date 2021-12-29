@@ -4,10 +4,7 @@ name: Get Garmin Downloads
 
 # Controls when the workflow will run
 on:
-  # push:
-  #   branches:
-  #     - main
-  - schedule:
+  schedule:
     - cron: '3 0 * * *'
 
 env:
