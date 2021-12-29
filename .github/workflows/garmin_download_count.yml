@@ -20,6 +20,7 @@ env:
   miniwatchface_badge_pattern: '极简中文表盘-{}-orange'
   grun_datafield_ciq_id: '02d16e10-84dc-46aa-8edb-c42834c9b907'
   all_apps_badge_pattern: 'All_Apps-{}-red'
+  developer_id: 'cdc2c15c-3ac3-46c6-99ec-a9c0f4a135e0'
 
 
 
@@ -47,8 +48,7 @@ jobs:
           python3 queryDownloads.py ${{ env.dogecoin_ciq_id }} ${{ env.dogecoin_badge_pattern }} ${{ env.readme_file_name }}
           python3 queryDownloads.py ${{ env.jumpjump_ciq_id }} ${{ env.jumpjump_badge_pattern }} ${{ env.readme_file_name }}
           python3 queryDownloads.py ${{ env.miniwatchface_ciq_id }} ${{ env.miniwatchface_badge_pattern }} ${{ env.readme_file_name }}
-          python3 queryAllDownloads.py ${{ env.readme_file_name }} ${{ env.all_apps_badge_pattern }} --ciq_id_list ${{ env.dogecoin_ciq_id }} ${{ env.jumpjump_ciq_id }} ${{ env.miniwatchface_ciq_id }} ${{ env.grun_datafield_ciq_id }} 
-
+          python3 queryAllDownloads.py ${{ env.readme_file_name }} ${{ env.all_apps_badge_pattern }} ${{ env.developer_id }}
       - name: Make a Commit and Push
         # You may pin to the exact commit or the version.
         # uses: github-actions-x/commit@5cf7985b07155682f82d02b6c2188d90cebeb0c8
