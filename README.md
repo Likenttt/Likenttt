@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/Likenttt/count.svg" />
 </p>
 <p align="center">
-  My Applications' Cumulative Downloads in the Global Connect IQ Store<br>
+  My Applications' Cumulative Downloads in the Global Connect IQ Store<a href="https://github.com/Likenttt/Likenttt/blob/main/queryAllDownloads.py"> Method</a><br>
   <img src="https://img.shields.io/badge/All_Apps-81150-red"/><br>
   Some of them<br>
   <img src="https://img.shields.io/badge/JumpJump-47170-green"/>
