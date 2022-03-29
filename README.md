@@ -5,10 +5,10 @@
 </p>
 <p align="center">
   My Applications' Cumulative Downloads in the Global Connect IQ Store<a href="https://github.com/Likenttt/Likenttt/blob/main/queryAllDownloads.py"> Method</a><br>
-  <img src="https://img.shields.io/badge/All_Apps-110349-red"/><br>
+  <img src="https://img.shields.io/badge/All_Apps-110620-red"/><br>
   Some of them<br>
-  <img src="https://img.shields.io/badge/JumpJump-65288-green"/>
-  <img src="https://img.shields.io/badge/极简中文表盘-6871-orange"/>
+  <img src="https://img.shields.io/badge/JumpJump-65425-green"/>
+  <img src="https://img.shields.io/badge/极简中文表盘-6880-orange"/>
   <img src="https://img.shields.io/badge/DogeCoin_Price-903-blue"/>
 </p>
 <p align="center">
