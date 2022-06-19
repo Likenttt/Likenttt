@@ -49,6 +49,8 @@ def get_developers_app_total_downloads(developer_id):
             if ciq_download_intl and ciq_download_china:
                 downloads = int(ciq_download_intl) + int(ciq_download_china)
                 count += downloads
+
+    print('result is:{}'.format(count))
     return count
 
 
