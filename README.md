@@ -10,14 +10,10 @@
   <img src="https://img.shields.io/badge/JumpJump-94486-green"/>
   <img src="https://img.shields.io/badge/满江红WF-3152-red"/>
 </p>
-<p align="center">
-  Marathon PB<br>
-  <img src="https://img.shields.io/badge/Marathon_PB-3:21:15-green"/>
-  <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likenttt&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 - 💻 Java | Python | Javascript | Monkey C | etc.
+- Running addicted. Marathon PB <img src="https://img.shields.io/badge/Marathon_PB-3:21:15-green"/> Half Marathon PB: <img src="https://img.shields.io/badge/Half_Marathon_PB-1:33:12-red"/>
