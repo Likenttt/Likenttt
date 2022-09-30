@@ -9,10 +9,10 @@
 
 - He's born a farmer at a rural but scenery area in the center of China. Unfortunately he had to leave his beloved hometown for further education and a living when growing up.
 - He's still a young man running towards his prime now.
-- He's a bachelor
+- He's a bachelor.
 - He used to work in Xiaomi Corp. as a software development engineer(with expertise in CRUD).
 - He's keen on money(but takes personal liberty as the first class).
-- He's been working for himself in his tiny company for 6 months. He looks really enjoyable.
+- He's been working for himself in his tiny company for 6 months. He looks really enjoyed.
 - He is good at mandarin. English as his second language, intermediate level.
 - He knows and uses a lot of programming languages like Java,MonkeyC,Typescript,Python,Dart,CommonLisp but experts in (not expert on) few
 - He devotes himself to sports area and has made plenty of applications running on Garmin watches.(Some for money while some for fun) The cumulative downloads in global Connect IQ Store is <a href="https://github.com/Likenttt/Likenttt/blob/main/queryAllDownloads.py"> Method </a><img src="https://img.shields.io/badge/All_Apps-172274-red"/><br>Some of them are <img src="https://img.shields.io/badge/JumpJump-93298-green"/><img src="https://img.shields.io/badge/满江红WF-2926-red"/>
