@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Likenttt/count.svg" />
 </p>
 
-## Let me make an brief introduction for this guy
+## Let me make a brief introduction for this guy
 
 - He's born a farmer at a rural but scenery area in the center of China. Unfortunately he had to leave his beloved hometown for further education and a living when growing up.
 - He's still a young man running towards his prime now.
