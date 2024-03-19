@@ -7,11 +7,9 @@
 
 ## Let me make a brief introduction for this guy
 
-- He's born a farmer at a rural but scenic area in the center of China. Unfortunately he had to leave his beloved hometown for further education and a living when growing up.
 - He's still a young man running towards his prime now.
-- He used to work for Xiaomi Corp. as a software development engineer(with expertise in CRUD).
-- He's keen on money(but takes personal liberty as the first class).
-- He's been working for himself in his tiny company for 6 months. He looks really enjoyed.
+- He used to work for Xiaomi Corp. as a software development engineer.
+- He's been working for himself in his tiny company for 6 months. He looks enjoyed.
 - He is good at mandarin. English as his second language, intermediate level.
 - He knows and uses a lot of programming languages like Java,MonkeyC,Typescript,Python,Dart etc.
 - He devotes himself to sports area and has made plenty of applications.
